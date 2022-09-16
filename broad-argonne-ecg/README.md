@@ -1,5 +1,4 @@
 PALISADE-X
 ==============================
 
-palisade-x
-
+Application of APPFL to ECG data.
